@@ -10,26 +10,26 @@ export const products = [
     id: 1,
     name: 'IPHONE',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'RUIM DE BATERIA'
   },
   {
     id: 2,
     name: 'MOTOROLA',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'CHAQUALHADA'
   },
   {
     id: 3,
     name: 'SAMSUNG',
     price: 299,
-    description: ''
+    description: 'PEGA FOGO'
   },
 
   {
     id: 4,
     name: 'XIAOMI',
     price: 699,
-    description: ''
+    description: 'CAMERA VE ATÉ A LUA'
   }
 ];
 
